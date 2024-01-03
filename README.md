@@ -1,7 +1,7 @@
 # CB Portfolio
 The name of the Project
 
-## Lien de Démo:
+## Demo Link:
 Acceder à mon site [cedricbillard-dev.fr](https://cedricbillard-dev.fr)
 
 ## Table of Content:
@@ -22,15 +22,17 @@ Acceder à mon site [cedricbillard-dev.fr](https://cedricbillard-dev.fr)
 
 `![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
-
 ## Technologies
-I used `html`, `css`, ...
+I used `react`, `scss`, `jsx`
 
 ## Setup
 - download or clone the repository
+- run `cd backend_sanity`
+- run `sanity init`
+- run `sanity start`
+- then run `cd frontend_react`
 - run `npm install`
-- ...
+- then run `npm run dev`
 
 ## Approach
 I adopted the `BEM` naming style for my css class names and ...
@@ -40,9 +42,8 @@ I adopted the `BEM` naming style for my css class names and ...
 
 ## Credits
 List of contriubutors:
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+- [Cedric Billard]
 
 ## License
 
-MIT license @ [author](author.com)
+MIT license @ [Cedric Billard]
