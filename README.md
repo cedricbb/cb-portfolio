@@ -1,10 +1,10 @@
 # CB Portfolio 📛
 The name of the Project
 
-## Demo Link:
+## Demo Link: 🔗
 Acceder à mon site [cedricbillard-dev.fr](https://cedricbillard-dev.fr)
 
-## Table of Content:
+## Table of Content: 📑
 
 - [About The App](#about-the-app)
 - [Screenshots](#screenshots)
@@ -15,17 +15,17 @@ Acceder à mon site [cedricbillard-dev.fr](https://cedricbillard-dev.fr)
 - [Credits](#credits)
 - [License](#license)
 
-## About The App
+## About The App 📚
 [Name of project] is an app that ...
 
-## Screenshots
+## Screenshots 📷
 
 `![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
 
-## Technologies
+## Technologies ⚛️ 
 I used `react`, `scss`, `jsx`
 
-## Setup
+## Setup 💻
 - download or clone the repository
 - run `cd backend_sanity`
 - run `sanity init`
@@ -34,16 +34,16 @@ I used `react`, `scss`, `jsx`
 - run `npm install`
 - then run `npm run dev`
 
-## Approach
+## Approach 🚶
 I adopted the `BEM` naming style for my css class names and ...
 
-## Status
+## Status 📶
 [name of project] is still in progress. `Version 2` will be out soon.
 
-## Credits
+## Credits 📝
 List of contriubutors:
 - [Cedric Billard]
 
-## License
+## License ©️
 
 MIT license @ [Cedric Billard]
