@@ -1,8 +1,8 @@
-# Project Title
+# CB Portfolio
 The name of the Project
 
-## Demo link:
-Access my site at [google.com](https://google.com)
+## Lien de Démo:
+Acceder à mon site [cedricbillard-dev.fr](https://cedricbillard-dev.fr)
 
 ## Table of Content:
 
