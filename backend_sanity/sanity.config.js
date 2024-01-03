@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'portfolio',
 
-  projectId: 'myh9yemc',
+  projectId: 'ek83x09c',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
