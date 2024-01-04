@@ -6,7 +6,7 @@ import { Navbar } from './components'
 function App() {
   return (
     <>
-      <div className='app'>
+      <div className='app bg-primary font-DM'>
         <Navbar />
         <Header />
         <About />
